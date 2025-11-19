@@ -211,4 +211,6 @@ Size :  2
 5. Operasi **peek** dipakai untuk melihat data teratas tanpa menghapusnya.
 6. Stack bisa dicek apakah kosong menggunakan pengecekan **boolean (isEmpty)**.
 7. Jumlah elemen di dalam stack dapat diketahui menggunakan **len()**.
-8. Stack mudah dibuat d
+8. Stack mudah dibuat di Python menggunakan list, dengan .append() dan .pop() sebagai fungsi utamanya.
+
+---
